@@ -10,7 +10,7 @@
 
  5.（2018提高卷）$\frac{4\times4}{1\times3}+\frac{8\times8}{3\times5}+\frac{12\times12}{5\times7}+\frac{16\times16}{7\times9}+\frac{20\times20}{9\times11}$
 
- 6.（2018提高卷）$\frac{1}{1\times2\times3\times4\times5}+\frac{1}{2\times3\times4\times5}+\frac{1}{3\times4\times5\times6}+...+\frac{1}{6\times7\times8\times9}+\frac{1}{7\times8\times9\times10}$
+ 6.（2018提高卷）$\frac{1}{1\times2\times3\times4}+\frac{1}{2\times3\times4\times5}+\frac{1}{3\times4\times5\times6}+...+\frac{1}{6\times7\times8\times9}+\frac{1}{7\times8\times9\times10}$
 
  7.（2018提高卷）$30^2-29^2+28^2-27^2+...+2^2-1^2$
 
